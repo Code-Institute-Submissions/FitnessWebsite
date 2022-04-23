@@ -780,3 +780,9 @@ section {
   }
 }
 
+@media (max-width: 450px) {
+  html {
+    font-size: 50%;
+  }
+}
+/*# sourceMappingURL=style.css.map */
