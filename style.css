@@ -32,3 +32,11 @@ html::-webkit-scrollbar-thumb {
   background: #F4EE61;
 }
 
+body {
+  background: #000;
+}
+
+section {
+  padding: 5rem 9%;
+}
+
