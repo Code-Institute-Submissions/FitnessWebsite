@@ -124,3 +124,10 @@ section {
   background: #F4EE61;
 }
 
+#menu-btn {
+  font-size: 3rem;
+  color: #fff;
+  cursor: pointer;
+  display: none;
+}
+
